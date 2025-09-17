@@ -14,7 +14,7 @@ This script demonstrates how to build a team of AI agents that work together as 
 
 1. Clone the GitHub repository
 ```bash
-[git clone https://github.com/rchhabra13/ai-finance-agent-team.git]
+git clone https://github.com/rchhabra13/ai-finance-agent-team.git
 ```
 
 2. Install the required dependencies:
