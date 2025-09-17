@@ -40,3 +40,5 @@ python3 finance_agent_team.py
 5. Open your web browser and navigate to the URL provided in the console output to interact with the team of AI agents through the playground interface.
 
 <!-- Updated: 2025-09-16 -->
+
+<!-- Updated: 2025-09-16 -->
